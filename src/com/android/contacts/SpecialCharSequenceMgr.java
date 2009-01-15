@@ -30,6 +30,7 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.os.RemoteException;
 import android.os.ServiceManager;
+import android.os.SystemProperties;
 import android.provider.Telephony.Intents;
 import android.telephony.PhoneNumberUtils;
 import android.telephony.TelephonyManager;
@@ -179,11 +180,28 @@ public class SpecialCharSequenceMgr {
 
     static boolean handleIMEIDisplay(Context context, String input, boolean useSystemWindow) {
         if (input.equals(MMI_IMEI_DISPLAY)) {
-            showIMEIPanel(context, useSystemWindow);
-            return true;
+            int networkType =
+                    ((TelephonyManager)context.getSystemService(Context.TELEPHONY_SERVICE))
+                    .getNetworkType();
+            // check for GSM
+            if(networkType == TelephonyManager.NETWORK_TYPE_GPRS ||
+                    networkType == TelephonyManager.NETWORK_TYPE_EDGE ||
+                    networkType == TelephonyManager.NETWORK_TYPE_UMTS ) {
+                showIMEIPanel(context, useSystemWindow);
+                return true;
+            }
         }
-
         return false;
+    }
+
+    static void showNotSupportedPanel(Context context, boolean useSystemWindow) {
+        AlertDialog alert = new AlertDialog.Builder(context)
+                .setTitle("Info")
+                .setMessage(R.string.command_not_supported)
+                .setPositiveButton(R.string.ok, null)
+                .setCancelable(false)
+                .show();
+        alert.getWindow().setType(WindowManager.LayoutParams.TYPE_PRIORITY_PHONE);    
     }
 
     static void showIMEIPanel(Context context, boolean useSystemWindow) {
