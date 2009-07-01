@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">"Kontaktpersoner"</string>
+    <string name="launcherDialer">"Opkald"</string>
+    <string name="shortcutContact">"Kontaktperson"</string>
+    <string name="starredList">"Stjernemarkerede"</string>
+    <string name="frequentList">"Ofte"</string>
+    <string name="strequentList">"Favoritter"</string>
+    <string name="viewContactTitle">"Kontaktoplysninger"</string>
+    <string name="viewContactDesription">"Vis kontaktperson"</string>
+    <string name="editContactDescription">"Rediger kontaktperson"</string>
+    <string name="insertContactDescription">"Opret kontaktperson"</string>
+    <string name="searchHint">"Søg i kontaktpersoner"</string>
+    <string name="menu_search">"Søg"</string>
+    <string name="menu_newContact">"Ny kontaktperson"</string>
+    <string name="menu_viewContact">"Vis kontaktperson"</string>
+    <string name="menu_callNumber">"Ring til <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="menu_addStar">"Føj til favoritter"</string>
+    <string name="menu_removeStar">"Fjern fra favoritter"</string>
+    <string name="menu_showBarcode">"Vis stregkode"</string>
+    <string name="menu_editContact">"Rediger kontaktperson"</string>
+    <string name="menu_deleteContact">"Slet kontaktperson"</string>
+    <string name="menu_call">"Opkald"</string>
+    <string name="menu_sendSMS">"Send SMS/MMS"</string>
+    <string name="menu_sendEmail">"Send e-mail"</string>
+    <string name="menu_viewAddress">"Kortadresse"</string>
+    <string name="menu_makeDefaultNumber">"Gør til standardnummer"</string>
+    <string name="deleteConfirmation_title">"Slet"</string>
+    <string name="deleteConfirmation">"Denne kontaktperson slettes"</string>
+    <string name="menu_done">"Færdig"</string>
+    <string name="menu_doNotSave">"Vend tilbage"</string>
+    <string name="editContact_title_edit">"Rediger kontaktperson"</string>
+    <string name="editContact_title_insert">"Ny kontaktperson"</string>
+    <string name="menu_addItem">"Få flere oplysninger"</string>
+    <string name="label_phonetic_name">"Fonetisk"</string>
+    <string name="label_notes">"Noter"</string>
+    <string name="label_ringtone">"Ringetone"</string>
+    <string name="ghostData_name">"Første og sidste"</string>
+    <string name="ghostData_phonetic_name">"Fonetisk navn"</string>
+    <string name="ghostData_company">"Virksomhed"</string>
+    <string name="ghostData_title">"Position"</string>
+    <string name="ghostData_im">"IM-navn"</string>
+    <string name="ghostData_notes">"Min note"</string>
+    <string name="ghostData_phone">"Telefonnummer"</string>
+    <string name="ghostData_email">"E-mail-adresse"</string>
+    <string name="ghostData_postal">"Postadresse"</string>
+    <string name="invalidContactMessage">"Kontaktpersonen eksisterer ikke."</string>
+    <string name="pickerNewContactHeader">"Opret ny kontaktperson"</string>
+    <string name="selectLabel">"Vælg etiket"</string>
+    <string name="phoneLabelsGroup">"Telefon"</string>
+    <string name="emailLabelsGroup">"E-mail"</string>
+    <string name="imLabelsGroup">"IM"</string>
+    <string name="postalLabelsGroup">"Postadresse"</string>
+    <string name="otherLabelsGroup">"Andre"</string>
+  <string-array name="otherLabels">
+    <item>"Organisation"</item>
+    <item>"Note"</item>
+  </string-array>
+    <string name="errorDialogTitle">"Der er ingen billeder"</string>
+    <string name="photoPickerNotFoundText">"Der er ingen tilgængelige billeder på telefonen."</string>
+    <string name="attachToContact">"Kontaktpersonikon"</string>
+    <string name="customLabelPickerTitle">"Navn på tilpasset etiket"</string>
+    <string name="menu_displayGroup">"Vis grupper"</string>
+    <string name="syncGroupPreference">"Rediger grupper, der skal synkroniseres"</string>
+    <string name="importFromSim">"Importer kontaktpersoner"</string>
+    <string name="send_to_voicemail_checkbox">"Send opkald direkte til voicemail"</string>
+    <string name="send_to_voicemail_view">"Opkald sendes direkte til voicemail."</string>
+    <string name="default_ringtone">"Standard"</string>
+    <string name="addPicture">"Tilføj ikon"</string>
+    <string name="removePicture">"Fjern ikon"</string>
+    <string name="noContacts">"Der er ingen kontaktpersoner."</string>
+    <string name="noContactsWithPhoneNumbers">"Der er ingen kontaktpersoner med telefonnumre."</string>
+    <string name="noFavorites">"Der er ingen favoritter."</string>
+    <string name="select_group_title">"Grupper"</string>
+    <string name="groupEmpty">"Din gruppe \"<xliff:g id="GROUPNAME">%s</xliff:g>\" er tom."</string>
+    <string name="showAllGroups">"Alle kontaktpersoner"</string>
+    <string name="syncAllGroups">"Synkroniser alle kontaktpersoner"</string>
+    <string name="groupNameMyContacts">"Mine kontaktpersoner"</string>
+    <string name="groupNameWithPhones">"Kontaktpersoner med telefonnumre"</string>
+    <string name="starredInAndroid">"Stjernemarkerede i Android"</string>
+    <string name="contactCreatedToast">"Kontaktperson oprettet."</string>
+    <string name="contactSavedToast">"Kontaktpersonen er gemt."</string>
+    <string name="listSeparatorCallNumber">"Ring til nummer"</string>
+    <string name="listSeparatorCallNumber_edit">"Telefonnumre"</string>
+    <string name="listSeparatorSendSmsMms">"Send SMS/MMS"</string>
+    <string name="listSeparatorSendEmail">"Send e-mail"</string>
+    <string name="listSeparatorSendEmail_edit">"E-mail-adresser"</string>
+    <string name="listSeparatorSendIm">"Send chatbesked"</string>
+    <string name="listSeparatorSendIm_edit">"Chatadresser"</string>
+    <string name="listSeparatorMapAddress">"Kortadresse"</string>
+    <string name="listSeparatorMapAddress_edit">"Postadresse"</string>
+    <string name="listSeparatorOrganizations">"Organisationer"</string>
+    <string name="listSeparatorOtherInformation">"Andre oplysninger"</string>
+    <string name="listSeparatorOtherInformation_edit">"Andre valgmuligheder"</string>
+    <string name="listSeparatorMore_edit">"Flere"</string>
+    <string name="contactsIconLabel">"Kontaktpersoner"</string>
+    <string name="contactsFavoritesLabel">"Favoritter"</string>
+    <string name="dialerIconLabel">"Opkald"</string>
+    <string name="recentCallsIconLabel">"Opkaldsliste"</string>
+    <string name="liveFolderAll">"Alle kontaktpersoner"</string>
+    <string name="liveFolderFavorites">"Stjernemarkerede kontaktpersoner"</string>
+    <string name="liveFolderPhone">"Kontaktpersoner med telefonnumre"</string>
+    <string name="menu_sendTextMessage">"Send SMS"</string>
+    <string name="recentCalls_callNumber">"Ring til <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="recentCalls_editNumberBeforeCall">"Rediger nummer inden opkald"</string>
+    <string name="recentCalls_addToContact">"Føj til kontaktpersoner"</string>
+    <string name="recentCalls_removeFromRecentList">"Fjern fra opkaldsliste"</string>
+    <string name="recentCalls_deleteAll">"Ryd opkaldsliste"</string>
+    <string name="recentCalls_empty">"Opkaldsliste er tom."</string>
+    <string name="imei">"IMEI"</string>
+    <string name="voicemail">"Voicemail"</string>
+    <string name="unknown">"Ukendte"</string>
+    <string name="private_num">"Privat nummer"</string>
+    <string name="payphone">"Betalingstelefon"</string>
+    <string name="dialerKeyboardHintText">"Brug tastatur til at ringe op"</string>
+    <string name="dialerDialpadHintText">"Ring for at tilføje et opkald"</string>
+    <string name="simContacts_emptyLoading">"Indlæser fra SIM-kort ..."</string>
+    <string name="simContacts_title">"Kontaktpersoner på SIM-kort"</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Synkroniser dine Google-kontaktpersoner!"</font>\n"Når du har synkroniseret din telefon, bliver dine kontaktpersoner tilgængelige, uanset hvor du befinder dig."</string>
+    <string name="noContactsHelpText">"Du har ingen kontaktpersoner."\n\n"For at tilføje kontaktpersoner skal du trykke på "<font fgcolor="#ffffffff"><b>"Menu"</b></font>" og vælge:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson"</b></font>" for at oprette en ny kontaktperson fra bunden"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importer kontaktpersoner"</b></font>" for at tilføje kontaktpersoner fra dit SIM-kort"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"Du har ingen kontaktpersoner."\n\n"For at tilføje kontaktpersoner skal du trykke på "<font fgcolor="#ffffffff"><b>"Menu"</b></font>" og vælge:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Rediger grupper, der skal synkroniseres"</b></font>", for at tilføje fra en ny eller eksisterende Google-konto"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson"</b></font>" for at oprette en ny kontaktperson fra bunden"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importer kontaktpersoner"</b></font>" for at tilføje kontaktpersoner fra dit SIM-kort"\n</li></string>
+    <string name="seclectSyncGroups_title">"Vælg grupper, der skal synkroniseres"</string>
+    <string name="liveFolder_all_label">"Alle kontaktpersoner"</string>
+    <string name="liveFolder_favorites_label">"Stjernemarkerede"</string>
+    <string name="liveFolder_phones_label">"Telefoner"</string>
+    <string name="dialer_useDtmfDialpad">"Brug touch-tone-tastatur"</string>
+    <string name="dialer_returnToInCallScreen">"Vend tilbage til igangværende opkald"</string>
+    <string name="dialer_addAnotherCall">"Tilføj opkald"</string>
+    <string name="callDetailTitle">"Opkaldsdetaljer"</string>
+    <string name="toast_call_detail_error">"Detaljerne for det anmodede opkald kunne ikke læses."</string>
+    <string name="call_type">"Type"</string>
+    <string name="type_incoming">"Indgående opkald"</string>
+    <string name="type_outgoing">"Udgående opkald"</string>
+    <string name="type_missed">"Ubesvarede opkald"</string>
+    <string name="call_time">"Tid"</string>
+    <string name="datetime_relative">"<xliff:g id="DATETIME">%1$s</xliff:g> (<xliff:g id="RELATIVE">%2$s</xliff:g>)"</string>
+    <string name="call_duration">"Varighed"</string>
+    <string name="header_actions">"Handlinger"</string>
+    <string name="ringtone_spinner">"Ringetone: <xliff:g id="RINGTONE">%1$s</xliff:g>"</string>
+    <string name="add_more_items">"Tilføj flere emner"</string>
+    <string name="actionCall">"Ring til <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionEmail">"E-mail <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionText">"Tekst <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionChat">"Chat ved hjælp af <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionMap">"Vis <xliff:g id="TYPE">%s</xliff:g> adresse"</string>
+    <string name="actionIncomingCall">"Indgående opkald"</string>
+    <string name="detailIncomingCallsGoToVoicemail">"Sendes direkte til voicemail"</string>
+    <string name="detailsRingtone">"Indstil til <xliff:g id="RINGTONE_NAME">%s</xliff:g>"</string>
+    <string name="callBack">"Ring tilbage"</string>
+    <string name="callAgain">"Ring op igen"</string>
+    <string name="returnCall">"Returner opkald"</string>
+    <string name="callDetailsDurationFormat">"<xliff:g id="MINUTES">%s</xliff:g> min. <xliff:g id="SECONDS">%s</xliff:g> sek."</string>
+    <string name="favoritesFrquentSeparator">"Ofte ringet til"</string>
+    <string name="add_contact_dlg_title">"Tilføj kontaktperson"</string>
+    <string name="add_contact_dlg_message_fmt">"Føj \"<xliff:g id="EMAIL">%s</xliff:g>\" til kontaktpersoner?"</string>
+</resources>

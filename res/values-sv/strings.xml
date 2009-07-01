@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="contactsList">"Kontakter"</string>
+    <string name="launcherDialer">"Samtal"</string>
+    <string name="shortcutContact">"Kontakt"</string>
+    <string name="starredList">"Stjärnmärkta"</string>
+    <string name="frequentList">"Ofta"</string>
+    <string name="strequentList">"Favoriter"</string>
+    <string name="viewContactTitle">"Kontaktuppgifter"</string>
+    <string name="viewContactDesription">"Visa kontakt"</string>
+    <string name="editContactDescription">"Redigera kontakt"</string>
+    <string name="insertContactDescription">"Skapa kontakt"</string>
+    <string name="searchHint">"Sök efter kontakter"</string>
+    <string name="menu_search">"Sök"</string>
+    <string name="menu_newContact">"Ny kontakt"</string>
+    <string name="menu_viewContact">"Visa kontakt"</string>
+    <string name="menu_callNumber">"Ring <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="menu_addStar">"Lägg till i Favoriter"</string>
+    <string name="menu_removeStar">"Ta bort från Favoriter"</string>
+    <string name="menu_showBarcode">"Visa streckkod"</string>
+    <string name="menu_editContact">"Redigera kontakt"</string>
+    <string name="menu_deleteContact">"Ta bort kontakt"</string>
+    <string name="menu_call">"Ring"</string>
+    <string name="menu_sendSMS">"Skicka SMS/MMS"</string>
+    <string name="menu_sendEmail">"Skicka e-post"</string>
+    <string name="menu_viewAddress">"Visa adress på karta"</string>
+    <string name="menu_makeDefaultNumber">"Använd som standardnummer"</string>
+    <string name="deleteConfirmation_title">"Ta bort"</string>
+    <string name="deleteConfirmation">"Kontakten kommer att tas bort."</string>
+    <string name="menu_done">"Färdig"</string>
+    <string name="menu_doNotSave">"Återgå"</string>
+    <string name="editContact_title_edit">"Redigera kontakt"</string>
+    <string name="editContact_title_insert">"Ny kontakt"</string>
+    <string name="menu_addItem">"Mer info"</string>
+    <string name="label_phonetic_name">"Fonetiskt"</string>
+    <string name="label_notes">"Anteckningar"</string>
+    <string name="label_ringtone">"Ringsignal"</string>
+    <string name="ghostData_name">"För- och efternamn"</string>
+    <string name="ghostData_phonetic_name">"Fonetiskt namn"</string>
+    <string name="ghostData_company">"Företag"</string>
+    <string name="ghostData_title">"Position"</string>
+    <string name="ghostData_im">"Chattnamn"</string>
+    <string name="ghostData_notes">"Min anteckning"</string>
+    <string name="ghostData_phone">"Telefonnummer"</string>
+    <string name="ghostData_email">"E-postadress"</string>
+    <string name="ghostData_postal">"Postadress"</string>
+    <string name="invalidContactMessage">"Kontakten finns inte."</string>
+    <string name="pickerNewContactHeader">"Skapa ny kontakt"</string>
+    <string name="selectLabel">"Välj etikett"</string>
+    <string name="phoneLabelsGroup">"Telefon"</string>
+    <string name="emailLabelsGroup">"E-post"</string>
+    <string name="imLabelsGroup">"Chatt"</string>
+    <string name="postalLabelsGroup">"Postadress"</string>
+    <string name="otherLabelsGroup">"Övrigt"</string>
+  <string-array name="otherLabels">
+    <item>"Organisation"</item>
+    <item>"Anteckning"</item>
+  </string-array>
+    <string name="errorDialogTitle">"Inga bilder"</string>
+    <string name="photoPickerNotFoundText">"Det finns inga bilder på telefonen."</string>
+    <string name="attachToContact">"Kontaktikon"</string>
+    <string name="customLabelPickerTitle">"Anpassat etikettsnamn"</string>
+    <string name="menu_displayGroup">"Visa grupper"</string>
+    <string name="syncGroupPreference">"Redigera synkgrupper"</string>
+    <string name="importFromSim">"Importera kontakter"</string>
+    <string name="send_to_voicemail_checkbox">"Skicka samtal direkt till röstbrevlåda"</string>
+    <string name="send_to_voicemail_view">"Samtal skickas direkt till röstbrevlådan."</string>
+    <string name="default_ringtone">"Standardinställning"</string>
+    <string name="addPicture">"Lägg till ikon"</string>
+    <string name="removePicture">"Ta bort ikon"</string>
+    <string name="noContacts">"Inga kontakter."</string>
+    <string name="noContactsWithPhoneNumbers">"Inga kontakter med telefonnummer."</string>
+    <string name="noFavorites">"Inga favoriter."</string>
+    <string name="select_group_title">"Grupper"</string>
+    <string name="groupEmpty">"Din grupp, <xliff:g id="GROUPNAME">%s</xliff:g>, är tom."</string>
+    <string name="showAllGroups">"Alla kontakter"</string>
+    <string name="syncAllGroups">"Synka alla kontakter"</string>
+    <string name="groupNameMyContacts">"Mina kontakter"</string>
+    <string name="groupNameWithPhones">"Kontakter med telefonnummer"</string>
+    <string name="starredInAndroid">"Stjärnmärkta i Android"</string>
+    <string name="contactCreatedToast">"Kontakt skapad."</string>
+    <string name="contactSavedToast">"Kontakt sparad."</string>
+    <string name="listSeparatorCallNumber">"Ring upp"</string>
+    <string name="listSeparatorCallNumber_edit">"Telefonnummer"</string>
+    <string name="listSeparatorSendSmsMms">"Skicka SMS/MMS"</string>
+    <string name="listSeparatorSendEmail">"Skicka e-post"</string>
+    <string name="listSeparatorSendEmail_edit">"E-postadresser"</string>
+    <string name="listSeparatorSendIm">"Skicka snabbmeddelande"</string>
+    <string name="listSeparatorSendIm_edit">"Chattadresser"</string>
+    <string name="listSeparatorMapAddress">"Visa adress på karta"</string>
+    <string name="listSeparatorMapAddress_edit">"Postadress"</string>
+    <string name="listSeparatorOrganizations">"Organisationer"</string>
+    <string name="listSeparatorOtherInformation">"Övrig information"</string>
+    <string name="listSeparatorOtherInformation_edit">"Övriga alternativ"</string>
+    <string name="listSeparatorMore_edit">"Mer"</string>
+    <string name="contactsIconLabel">"Kontakter"</string>
+    <string name="contactsFavoritesLabel">"Favoriter"</string>
+    <string name="dialerIconLabel">"Samtal"</string>
+    <string name="recentCallsIconLabel">"Samtalshistorik"</string>
+    <string name="liveFolderAll">"Alla kontakter"</string>
+    <string name="liveFolderFavorites">"Stjärnmärkta kontakter"</string>
+    <string name="liveFolderPhone">"Kontakter med telefonnummer"</string>
+    <string name="menu_sendTextMessage">"Skicka SMS"</string>
+    <string name="recentCalls_callNumber">"Ring <xliff:g id="NAME">%s</xliff:g>"</string>
+    <string name="recentCalls_editNumberBeforeCall">"Redigera nummer före samtal"</string>
+    <string name="recentCalls_addToContact">"Lägg till i Kontakter"</string>
+    <string name="recentCalls_removeFromRecentList">"Ta bort från samtalshistorik"</string>
+    <string name="recentCalls_deleteAll">"Rensa samtalshistorik"</string>
+    <string name="recentCalls_empty">"Samtalshistoriken är tom."</string>
+    <string name="imei">"IMEI-kod"</string>
+    <string name="voicemail">"Röstbrevlåda"</string>
+    <string name="unknown">"Okänd"</string>
+    <string name="private_num">"Privat nummer"</string>
+    <string name="payphone">"Telefonautomat"</string>
+    <string name="dialerKeyboardHintText">"Använd tangentbordet när du ringer"</string>
+    <string name="dialerDialpadHintText">"Ring om du vill lägga till ett samtal"</string>
+    <string name="simContacts_emptyLoading">"Läser in från SIM-kort…"</string>
+    <string name="simContacts_title">"Kontakter från SIM-kort"</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Synka dina Google-kontakter!"</font>" "\n"När du har synkat med telefonen kan du använda dina kontakter var du än är."</string>
+    <string name="noContactsHelpText">"Du har inga kontakter."\n\n"Om du vill lägga till kontakter trycker du på "<font fgcolor="#ffffffff"><b>"Meny"</b></font>" och väljer:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Ny kontakt"</b></font>" om du vill skapa en helt ny kontakt"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importera kontakter"</b></font>" om du vill lägga till kontakter från SIM-kortet"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"Du har inga kontakter."\n\n"Om du vill lägga till kontakter trycker du på "<font fgcolor="#ffffffff"><b>"Meny"</b></font>" och väljer:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Redigera synkgrupper"</b></font>" om du vill lägga till från ett nytt eller befintligt Google-konto"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Ny kontakt"</b></font>" om du vill lägga till en helt ny kontakt"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importera kontakter"</b></font>" om du vill lägga till kontakter från SIM-kortet"\n</li></string>
+    <string name="seclectSyncGroups_title">"Välj grupper att synka"</string>
+    <string name="liveFolder_all_label">"Alla kontakter"</string>
+    <string name="liveFolder_favorites_label">"Stjärnmärkt"</string>
+    <string name="liveFolder_phones_label">"Telefoner"</string>
+    <string name="dialer_useDtmfDialpad">"Använda tonvalstelefon"</string>
+    <string name="dialer_returnToInCallScreen">"Återgå till pågående samtal"</string>
+    <string name="dialer_addAnotherCall">"Lägg till samtal"</string>
+    <string name="callDetailTitle">"Samtalsinfo"</string>
+    <string name="toast_call_detail_error">"Det gick inte att läsa information om samtalet."</string>
+    <string name="call_type">"Typ"</string>
+    <string name="type_incoming">"Inkommande samtal"</string>
+    <string name="type_outgoing">"Utgående samtal"</string>
+    <string name="type_missed">"Missat samtal"</string>
+    <string name="call_time">"Tid"</string>
+    <string name="datetime_relative">"<xliff:g id="DATETIME">%1$s</xliff:g> (<xliff:g id="RELATIVE">%2$s</xliff:g>)"</string>
+    <string name="call_duration">"Längd"</string>
+    <string name="header_actions">"Aktiviteter"</string>
+    <string name="ringtone_spinner">"Ringsignal: <xliff:g id="RINGTONE">%1$s</xliff:g>"</string>
+    <string name="add_more_items">"Lägg till fler objekt"</string>
+    <string name="actionCall">"Ring <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionEmail">"Skicka e-post till <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionText">"Skicka SMS till <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionChat">"Chatta med <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionMap">"Visa adress, <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionIncomingCall">"Inkommande samtal"</string>
+    <string name="detailIncomingCallsGoToVoicemail">"Skickas direkt till röstbrevlådan"</string>
+    <string name="detailsRingtone">"Inställd på <xliff:g id="RINGTONE_NAME">%s</xliff:g>"</string>
+    <string name="callBack">"Ring upp"</string>
+    <string name="callAgain">"Ring igen"</string>
+    <string name="returnCall">"Ring upp"</string>
+    <string name="callDetailsDurationFormat">"<xliff:g id="MINUTES">%s</xliff:g> minuter <xliff:g id="SECONDS">%s</xliff:g> sekunder"</string>
+    <string name="favoritesFrquentSeparator">"Ringer ofta"</string>
+    <string name="add_contact_dlg_title">"Lägg till kontakt"</string>
+    <string name="add_contact_dlg_message_fmt">"Vill du lägga till <xliff:g id="EMAIL">%s</xliff:g> i Kontakter?"</string>
+</resources>
