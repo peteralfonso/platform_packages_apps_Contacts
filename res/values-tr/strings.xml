@@ -16,51 +16,42 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="contactsList">"Kişiler"</string>
-    <!-- no translation found for launcherDialer (140610573639849799) -->
-    <skip />
+    <string name="launcherDialer">"Çevirici"</string>
     <string name="shortcutContact">"Kişi"</string>
-    <string name="starredList">"Yıldızla işaretlenmiş"</string>
-    <string name="frequentList">"Sık"</string>
-    <string name="strequentList">"Favoriler"</string>
+    <string name="starredList">"Yıldızlı"</string>
+    <string name="frequentList">"Sık sık"</string>
+    <string name="strequentList">"Sık Kullanılanlar"</string>
     <string name="viewContactTitle">"Kişi ayrıntıları"</string>
-    <string name="viewContactDesription">"Kişi gör"</string>
-    <string name="editContactDescription">"Kişi düzenle"</string>
+    <string name="viewContactDesription">"Kişiyi görüntüle"</string>
+    <string name="editContactDescription">"Kişiyi düzenle"</string>
     <string name="insertContactDescription">"Kişi oluştur"</string>
     <string name="searchHint">"Kişileri ara"</string>
-    <!-- no translation found for menu_search (9147752853603483719) -->
-    <skip />
+    <string name="menu_search">"Ara"</string>
     <string name="menu_newContact">"Yeni kişi"</string>
-    <string name="menu_viewContact">"Kişi gör"</string>
-    <string name="menu_callNumber">"Ara <xliff:g id="NAME">%s</xliff:g>"</string>
-    <!-- no translation found for menu_addStar (2908478235715404876) -->
-    <skip />
-    <!-- no translation found for menu_removeStar (5844227078364227030) -->
-    <skip />
-    <!-- no translation found for menu_showBarcode (309973637178814132) -->
-    <skip />
-    <string name="menu_editContact">"Kişi düzenle"</string>
-    <string name="menu_deleteContact">"Kiş sil"</string>
-    <string name="menu_call">"Ara"</string>
+    <string name="menu_viewContact">"Kişiyi görüntüle"</string>
+    <string name="menu_callNumber">"<xliff:g id="NAME">%s</xliff:g> adlı kişiyi ara"</string>
+    <string name="menu_addStar">"Sık kullanılanlara ekle"</string>
+    <string name="menu_removeStar">"Sık kullanılanlardan kaldır"</string>
+    <string name="menu_showBarcode">"Barkodu göster"</string>
+    <string name="menu_editContact">"Kişiyi düzenle"</string>
+    <string name="menu_deleteContact">"Kişiyi sil"</string>
+    <string name="menu_call">"Çağrı"</string>
     <string name="menu_sendSMS">"SMS/MMS gönder"</string>
     <string name="menu_sendEmail">"E-posta gönder"</string>
-    <string name="menu_viewAddress">"Harita adresi"</string>
-    <string name="menu_makeDefaultNumber">"Varsayılan sayı yap"</string>
+    <string name="menu_viewAddress">"Adresi haritada göster"</string>
+    <string name="menu_makeDefaultNumber">"Varsayılan numara yap"</string>
     <string name="deleteConfirmation_title">"Sil"</string>
     <string name="deleteConfirmation">"Bu kişi silinecek."</string>
-    <!-- no translation found for menu_done (796017761764190697) -->
-    <skip />
-    <!-- no translation found for menu_doNotSave (2174577548513895144) -->
-    <skip />
-    <string name="editContact_title_edit">"Kişi düzenle"</string>
+    <string name="menu_done">"Bitti"</string>
+    <string name="menu_doNotSave">"Geri Döndür"</string>
+    <string name="editContact_title_edit">"Kişiyi düzenle"</string>
     <string name="editContact_title_insert">"Yeni kişi"</string>
     <string name="menu_addItem">"Daha fazla bilgi"</string>
-    <!-- no translation found for label_phonetic_name (2288082649573927286) -->
-    <skip />
+    <string name="label_phonetic_name">"Fonetik"</string>
     <string name="label_notes">"Notlar"</string>
     <string name="label_ringtone">"Zil sesi"</string>
     <string name="ghostData_name">"İlk ve Son"</string>
-    <!-- no translation found for ghostData_phonetic_name (7852749081984070902) -->
-    <skip />
+    <string name="ghostData_phonetic_name">"Fonetik adı"</string>
     <string name="ghostData_company">"Şirket"</string>
     <string name="ghostData_title">"Konum"</string>
     <string name="ghostData_im">"IM adı"</string>
@@ -68,7 +59,7 @@
     <string name="ghostData_phone">"Telefon numarası"</string>
     <string name="ghostData_email">"E-posta adresi"</string>
     <string name="ghostData_postal">"Posta adresi"</string>
-    <string name="invalidContactMessage">"Kişi yok."</string>
+    <string name="invalidContactMessage">"Kişi mevcut değil."</string>
     <string name="pickerNewContactHeader">"Yeni kişi oluştur"</string>
     <string name="selectLabel">"Etiketi seç"</string>
     <string name="phoneLabelsGroup">"Telefon"</string>
@@ -77,154 +68,104 @@
     <string name="postalLabelsGroup">"Posta adresi"</string>
     <string name="otherLabelsGroup">"Diğer"</string>
   <string-array name="otherLabels">
-    <item>"Organizasyon"</item>
+    <item>"Kuruluş"</item>
     <item>"Not"</item>
   </string-array>
     <string name="errorDialogTitle">"Resim yok"</string>
-    <string name="photoPickerNotFoundText">"Telefonda kullanılabilir resim yok."</string>
+    <string name="photoPickerNotFoundText">"Telefonda hiçbir resim yok."</string>
     <string name="attachToContact">"Kişi simgesi"</string>
-    <!-- no translation found for customLabelPickerTitle (1081475101983255212) -->
-    <skip />
-    <string name="menu_displayGroup">"Grup görüntüle"</string>
-    <string name="syncGroupPreference">"Senkronizasyon grubunu düzenle"</string>
+    <string name="customLabelPickerTitle">"Özel etiket adı"</string>
+    <string name="menu_displayGroup">"Grubu görüntüle"</string>
+    <string name="syncGroupPreference">"Senkronize grupları düzenle"</string>
     <string name="importFromSim">"Kişileri içeri aktar"</string>
-    <!-- no translation found for send_to_voicemail_checkbox (9001686764070676353) -->
-    <skip />
-    <string name="send_to_voicemail_view">"Aramalar doğrudan sesli postaya gönderildi."</string>
+    <string name="send_to_voicemail_checkbox">"Çağrıları doğrudan sesli mesaja gönder"</string>
+    <string name="send_to_voicemail_view">"Aramalar doğrudan sesli mesaja gönderildi."</string>
     <string name="default_ringtone">"Varsayılan"</string>
     <string name="addPicture">"Simge ekle"</string>
     <string name="removePicture">"Simgeyi kaldır"</string>
-    <string name="noContacts">"Kiş yok."</string>
-    <string name="noContactsWithPhoneNumbers">"Telefon numarası bulunan kişi yok."</string>
-    <string name="noFavorites">"Sık kullanılanlar yok."</string>
-    <!-- no translation found for select_group_title (7955698611959835612) -->
-    <skip />
+    <string name="noContacts">"Hiçbir kişi yok."</string>
+    <string name="noContactsWithPhoneNumbers">"Telefon numarası olan hiçbir kişi yok."</string>
+    <string name="noFavorites">"Sık kullanılan yok."</string>
+    <string name="select_group_title">"Gruplar"</string>
     <string name="groupEmpty">"\"<xliff:g id="GROUPNAME">%s</xliff:g>\" grubunuz boş."</string>
     <string name="showAllGroups">"Tüm kişiler"</string>
     <string name="syncAllGroups">"Tüm kişileri senkronize et"</string>
     <string name="groupNameMyContacts">"Kişilerim"</string>
-    <string name="groupNameWithPhones">"Telefon numarası bulunan kişiler"</string>
-    <!-- no translation found for starredInAndroid (6495527538140213440) -->
-    <skip />
+    <string name="groupNameWithPhones">"Telefon numarası olan kişiler"</string>
+    <string name="starredInAndroid">"Android\'de yıldızlı"</string>
     <string name="contactCreatedToast">"Kişi oluşturuldu."</string>
     <string name="contactSavedToast">"Kişi kaydedildi."</string>
-    <string name="listSeparatorCallNumber">"Numara çevir"</string>
-    <!-- no translation found for listSeparatorCallNumber_edit (2999167270900823334) -->
-    <skip />
+    <string name="listSeparatorCallNumber">"Numarayı çevir"</string>
+    <string name="listSeparatorCallNumber_edit">"Telefon numaraları"</string>
     <string name="listSeparatorSendSmsMms">"SMS/MMS gönder"</string>
     <string name="listSeparatorSendEmail">"E-posta gönder"</string>
-    <!-- no translation found for listSeparatorSendEmail_edit (6859593624213634454) -->
-    <skip />
+    <string name="listSeparatorSendEmail_edit">"E-posta adresleri"</string>
     <string name="listSeparatorSendIm">"Anlık ileti gönder"</string>
-    <!-- no translation found for listSeparatorSendIm_edit (3793290685553377986) -->
-    <skip />
-    <string name="listSeparatorMapAddress">"Harita adresi"</string>
-    <!-- no translation found for listSeparatorMapAddress_edit (298711187672067985) -->
-    <skip />
-    <string name="listSeparatorOrganizations">"Organizasyonlar"</string>
+    <string name="listSeparatorSendIm_edit">"Sohbet adresleri"</string>
+    <string name="listSeparatorMapAddress">"Adresi haritada göster"</string>
+    <string name="listSeparatorMapAddress_edit">"Posta adresleri"</string>
+    <string name="listSeparatorOrganizations">"Kuruluşlar"</string>
     <string name="listSeparatorOtherInformation">"Diğer bilgiler"</string>
-    <!-- no translation found for listSeparatorOtherInformation_edit (1326921768011367750) -->
-    <skip />
-    <!-- no translation found for listSeparatorMore_edit (858454837482243176) -->
-    <skip />
+    <string name="listSeparatorOtherInformation_edit">"Diğer seçenekler"</string>
+    <string name="listSeparatorMore_edit">"Diğer"</string>
     <string name="contactsIconLabel">"Kişiler"</string>
-    <string name="contactsFavoritesLabel">"Favoriler"</string>
+    <string name="contactsFavoritesLabel">"Sık Kullanılanlar"</string>
     <string name="dialerIconLabel">"Çevirici"</string>
-    <string name="recentCallsIconLabel">"Arama kaydı"</string>
-    <!-- no translation found for liveFolderAll (4789010460767506206) -->
-    <skip />
-    <!-- no translation found for liveFolderFavorites (3100957542927222282) -->
-    <skip />
-    <!-- no translation found for liveFolderPhone (3739376066610926780) -->
-    <skip />
+    <string name="recentCallsIconLabel">"Çağrı kaydı"</string>
+    <string name="liveFolderAll">"Tüm kişiler"</string>
+    <string name="liveFolderFavorites">"Yıldızlı kişiler"</string>
+    <string name="liveFolderPhone">"Telefon numarası olan kişiler"</string>
     <string name="menu_sendTextMessage">"SMS iletisi gönder"</string>
-    <string name="recentCalls_callNumber">"Ara <xliff:g id="NAME">%s</xliff:g>"</string>
-    <string name="recentCalls_editNumberBeforeCall">"Aramadan öönce numarayı düzenle"</string>
+    <string name="recentCalls_callNumber">"<xliff:g id="NAME">%s</xliff:g> adlı kişiyi ara"</string>
+    <string name="recentCalls_editNumberBeforeCall">"Aramadan önce numarayı düzenle"</string>
     <string name="recentCalls_addToContact">"Kişilere ekle"</string>
-    <string name="recentCalls_removeFromRecentList">"Arama kaydından kaldır"</string>
-    <string name="recentCalls_deleteAll">"Arama kaydını temizle"</string>
-    <string name="recentCalls_empty">"Arama kaydı boş."</string>
+    <string name="recentCalls_removeFromRecentList">"Çağrı kaydından kaldır"</string>
+    <string name="recentCalls_deleteAll">"Çağrı kaydını temizle"</string>
+    <string name="recentCalls_empty">"Çağrı kaydı boş."</string>
     <string name="imei">"IMEI"</string>
-    <string name="voicemail">"Sesli posta"</string>
+    <string name="voicemail">"Sesli Mesaj"</string>
     <string name="unknown">"Bilinmiyor"</string>
     <string name="private_num">"Özel numara"</string>
-    <!-- no translation found for payphone (4864313342828942922) -->
-    <skip />
-    <string name="dialerKeyboardHintText">"Aramak için klavyeyi kullan"</string>
-    <!-- no translation found for dialerDialpadHintText (5824490365898349041) -->
-    <skip />
+    <string name="payphone">"Ankesörlü telefon"</string>
+    <string name="dialerKeyboardHintText">"Çevirmek için klavyeyi kullan"</string>
+    <string name="dialerDialpadHintText">"Arama eklemek için çevir"</string>
     <string name="simContacts_emptyLoading">"SIM karttan yükleniyor..."</string>
-    <string name="simContacts_title">"SIM karttaki kişiler"</string>
-    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Google kişilerinizi senkronize edin!"</font>" "\n"Telefonunuzu senkronize ettikten sonra, kişlerinize gittiğiniz her yerden erişebilirsiniz."</string>
-    <!-- no translation found for noContactsHelpText (2249195687463896364) -->
-    <skip />
-    <!-- no translation found for noContactsHelpTextWithSync (4927701496550314555) -->
-    <skip />
+    <string name="simContacts_title">"SIM kart kişileri"</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Google kişilerinizi senkronize edin!"</font>" "\n"Telefonunuzu senkronize ettikten sonra, kişilerinize gittiğiniz her yerden ulaşabilirsiniz."</string>
+    <string name="noContactsHelpText">"Hiçbir kişiye sahip değilsiniz."\n\n"Kişi eklemek için "<font fgcolor="#ffffffff"><b>"Menü"</b></font>"\'ye basın ve şunu seçin:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Yeni kişi"</b></font>" (yeni bir kişi oluşturmak için)"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Kişileri içe aktar"</b></font>" (kişileri SIM kartınızdan almak için)"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"Hiçbir kişiniz yok."\n\n"Kişi eklemek için "<font fgcolor="#ffffffff"><b>"Menü"</b></font>"\'ye basın ve şunu seçin:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Senkronize grupları düzenle"</b></font>" (yeni veya mevcut bir Google hesabından eklemek için )"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Yeni kişi"</b></font>" (yeni bir kişi oluşturmak için)"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Kişileri içe aktar"</b></font>" (kişileri SIM kartınızdan eklemek için)"\n</li></string>
     <string name="seclectSyncGroups_title">"Senkronize edilecek grupları seç"</string>
-    <!-- no translation found for liveFolder_all_label (1552523730090319259) -->
-    <skip />
-    <!-- no translation found for liveFolder_favorites_label (2674341514070517105) -->
-    <skip />
-    <!-- no translation found for liveFolder_phones_label (1709786878793436245) -->
-    <skip />
-    <!-- no translation found for dialer_useDtmfDialpad (1707548397435075040) -->
-    <skip />
-    <!-- no translation found for dialer_returnToInCallScreen (3719386377550913067) -->
-    <skip />
-    <!-- no translation found for dialer_addAnotherCall (4205688819890074468) -->
-    <skip />
-    <!-- no translation found for callDetailTitle (5340227785196217938) -->
-    <skip />
-    <!-- no translation found for toast_call_detail_error (7200975244804730096) -->
-    <skip />
-    <!-- no translation found for call_type (3213526349444862087) -->
-    <skip />
-    <!-- no translation found for type_incoming (6502076603836088532) -->
-    <skip />
-    <!-- no translation found for type_outgoing (343108709599392641) -->
-    <skip />
-    <!-- no translation found for type_missed (2720502601640509542) -->
-    <skip />
-    <!-- no translation found for call_time (5805575214626630975) -->
-    <skip />
-    <!-- no translation found for datetime_relative (2906207446040994658) -->
-    <skip />
-    <!-- no translation found for call_duration (3941950339482985532) -->
-    <skip />
-    <!-- no translation found for header_actions (229583643365836321) -->
-    <skip />
-    <!-- no translation found for ringtone_spinner (7317823545379736528) -->
-    <skip />
-    <!-- no translation found for add_more_items (7754115197545456663) -->
-    <skip />
-    <!-- no translation found for actionCall (695145166039381504) -->
-    <skip />
-    <!-- no translation found for actionEmail (3870371552333656807) -->
-    <skip />
-    <!-- no translation found for actionText (6399049224844880108) -->
-    <skip />
-    <!-- no translation found for actionChat (31079429748650300) -->
-    <skip />
-    <!-- no translation found for actionMap (1977955782051732775) -->
-    <skip />
-    <!-- no translation found for actionIncomingCall (6028930669817038600) -->
-    <skip />
-    <!-- no translation found for detailIncomingCallsGoToVoicemail (9163373178772231307) -->
-    <skip />
-    <!-- no translation found for detailsRingtone (4052108748982701775) -->
-    <skip />
-    <!-- no translation found for callBack (5498224409038809224) -->
-    <skip />
-    <!-- no translation found for callAgain (3197312117049874778) -->
-    <skip />
-    <!-- no translation found for returnCall (8171961914203617813) -->
-    <skip />
-    <!-- no translation found for callDetailsDurationFormat (8157706382818184268) -->
-    <skip />
-    <!-- no translation found for favoritesFrquentSeparator (5007070838253932139) -->
-    <skip />
-    <!-- no translation found for add_contact_dlg_title (2789046541229846116) -->
-    <skip />
-    <!-- no translation found for add_contact_dlg_message_fmt (7986472669444326576) -->
-    <skip />
+    <string name="liveFolder_all_label">"Tüm Kişiler"</string>
+    <string name="liveFolder_favorites_label">"Yıldızlı"</string>
+    <string name="liveFolder_phones_label">"Telefonlar"</string>
+    <string name="dialer_useDtmfDialpad">"Telefon tuş takımını kullan"</string>
+    <string name="dialer_returnToInCallScreen">"Çağrıya dön"</string>
+    <string name="dialer_addAnotherCall">"Çağrı ekle"</string>
+    <string name="callDetailTitle">"Çağrı ayrıntıları"</string>
+    <string name="toast_call_detail_error">"İstenen çağrı için ayrıntılar okunamadı."</string>
+    <string name="call_type">"Tür"</string>
+    <string name="type_incoming">"Gelen çağrı"</string>
+    <string name="type_outgoing">"Giden çağrı"</string>
+    <string name="type_missed">"Cevapsız çağrı"</string>
+    <string name="call_time">"Saat"</string>
+    <string name="datetime_relative">"<xliff:g id="DATETIME">%1$s</xliff:g> (<xliff:g id="RELATIVE">%2$s</xliff:g>)"</string>
+    <string name="call_duration">"Süre"</string>
+    <string name="header_actions">"İşlemler"</string>
+    <string name="ringtone_spinner">"Zil sesi: <xliff:g id="RINGTONE">%1$s</xliff:g>"</string>
+    <string name="add_more_items">"Daha fazla öğe ekle"</string>
+    <string name="actionCall">"Şunu ara: <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionEmail">"E-posta <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionText">"Metin <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionChat">"<xliff:g id="TYPE">%s</xliff:g> kullanarak sohbet et"</string>
+    <string name="actionMap">"<xliff:g id="TYPE">%s</xliff:g> adresini görüntüle"</string>
+    <string name="actionIncomingCall">"Gelen çağrılar"</string>
+    <string name="detailIncomingCallsGoToVoicemail">"Doğrudan sesli mesaja gönderilecek"</string>
+    <string name="detailsRingtone">"<xliff:g id="RINGTONE_NAME">%s</xliff:g> olarak ayarla"</string>
+    <string name="callBack">"Tekrar ara"</string>
+    <string name="callAgain">"Tekrar ara"</string>
+    <string name="returnCall">"Geri ara"</string>
+    <string name="callDetailsDurationFormat">"<xliff:g id="MINUTES">%s</xliff:g> dak <xliff:g id="SECONDS">%s</xliff:g> sn"</string>
+    <string name="favoritesFrquentSeparator">"Sık aranan"</string>
+    <string name="add_contact_dlg_title">"Kişi Ekle"</string>
+    <string name="add_contact_dlg_message_fmt">"\"<xliff:g id="EMAIL">%s</xliff:g>\" adresi kişilere eklensin mi?"</string>
 </resources>
