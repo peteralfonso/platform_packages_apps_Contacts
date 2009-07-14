@@ -76,8 +76,8 @@
     <string name="attachToContact">"Kişi simgesi"</string>
     <string name="customLabelPickerTitle">"Özel etiket adı"</string>
     <string name="menu_displayGroup">"Grubu görüntüle"</string>
-    <string name="syncGroupPreference">"Senkronize grupları düzenle"</string>
-    <string name="importFromSim">"Kişileri içeri aktar"</string>
+    <string name="syncGroupPreference">"Senk. Grupları düzenle"</string>
+    <string name="importFromSim">"Kişileri içe aktar"</string>
     <string name="send_to_voicemail_checkbox">"Çağrıları doğrudan sesli mesaja gönder"</string>
     <string name="send_to_voicemail_view">"Aramalar doğrudan sesli mesaja gönderildi."</string>
     <string name="default_ringtone">"Varsayılan"</string>

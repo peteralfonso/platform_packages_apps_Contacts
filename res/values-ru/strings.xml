@@ -43,7 +43,7 @@
     <string name="deleteConfirmation_title">"Удалить"</string>
     <string name="deleteConfirmation">"Этот контакт будет удален."</string>
     <string name="menu_done">"Готово"</string>
-    <string name="menu_doNotSave">"Вернуться без сохранения изменений"</string>
+    <string name="menu_doNotSave">"Отменить изменения"</string>
     <string name="editContact_title_edit">"Изменить контакт"</string>
     <string name="editContact_title_insert">"Новый контакт"</string>
     <string name="menu_addItem">"Добавить информацию"</string>
@@ -74,7 +74,7 @@
     <string name="errorDialogTitle">"Нет картинок"</string>
     <string name="photoPickerNotFoundText">"В телефоне нет картинок."</string>
     <string name="attachToContact">"Значок контакта"</string>
-    <string name="customLabelPickerTitle">"Персонализированный ярлык"</string>
+    <string name="customLabelPickerTitle">"Особая метка"</string>
     <string name="menu_displayGroup">"Показать группу"</string>
     <string name="syncGroupPreference">"Изменить группы синхронизации"</string>
     <string name="importFromSim">"Импортировать контакты"</string>
@@ -111,7 +111,7 @@
     <string name="contactsIconLabel">"Контакты"</string>
     <string name="contactsFavoritesLabel">"Избранные"</string>
     <string name="dialerIconLabel">"Телефон"</string>
-    <string name="recentCallsIconLabel">"Список вызовов"</string>
+    <string name="recentCallsIconLabel">"Вызовы"</string>
     <string name="liveFolderAll">"Все контакты"</string>
     <string name="liveFolderFavorites">"Помеченные контакты"</string>
     <string name="liveFolderPhone">"Контакты с номерами телефонов"</string>

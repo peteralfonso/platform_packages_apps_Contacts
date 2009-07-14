@@ -50,7 +50,7 @@
     <string name="label_phonetic_name">"Fonética"</string>
     <string name="label_notes">"Observações"</string>
     <string name="label_ringtone">"Toque"</string>
-    <string name="ghostData_name">"Primeiro e último"</string>
+    <string name="ghostData_name">"Nome e sobrenome"</string>
     <string name="ghostData_phonetic_name">"Nome fonético"</string>
     <string name="ghostData_company">"Empresa"</string>
     <string name="ghostData_title">"Posição"</string>

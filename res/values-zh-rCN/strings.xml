@@ -50,17 +50,17 @@
     <string name="label_phonetic_name">"拼音"</string>
     <string name="label_notes">"备注"</string>
     <string name="label_ringtone">"铃声"</string>
-    <string name="ghostData_name">"名字和姓氏"</string>
+    <string name="ghostData_name">"姓名"</string>
     <string name="ghostData_phonetic_name">"姓名拼音"</string>
     <string name="ghostData_company">"公司"</string>
     <string name="ghostData_title">"职位"</string>
-    <string name="ghostData_im">"即时消息名称"</string>
+    <string name="ghostData_im">"聊天帐号"</string>
     <string name="ghostData_notes">"我的备注"</string>
-    <string name="ghostData_phone">"手机号码"</string>
+    <string name="ghostData_phone">"电话号码"</string>
     <string name="ghostData_email">"电子邮件地址"</string>
     <string name="ghostData_postal">"邮政地址"</string>
     <string name="invalidContactMessage">"联系人不存在。"</string>
-    <string name="pickerNewContactHeader">"创建新联系人"</string>
+    <string name="pickerNewContactHeader">"新建联系人"</string>
     <string name="selectLabel">"选择标签"</string>
     <string name="phoneLabelsGroup">"手机"</string>
     <string name="emailLabelsGroup">"电子邮件"</string>
@@ -92,11 +92,11 @@
     <string name="syncAllGroups">"同步所有联系人"</string>
     <string name="groupNameMyContacts">"我的联系人"</string>
     <string name="groupNameWithPhones">"具有手机号码的联系人"</string>
-    <string name="starredInAndroid">"Android 中加星标的群组"</string>
+    <string name="starredInAndroid">"Android 中加星标的联系人"</string>
     <string name="contactCreatedToast">"已创建联系人。"</string>
     <string name="contactSavedToast">"联系人已保存。"</string>
     <string name="listSeparatorCallNumber">"拨打电话"</string>
-    <string name="listSeparatorCallNumber_edit">"手机号码"</string>
+    <string name="listSeparatorCallNumber_edit">"电话号码"</string>
     <string name="listSeparatorSendSmsMms">"发送短信/彩信"</string>
     <string name="listSeparatorSendEmail">"发送电子邮件"</string>
     <string name="listSeparatorSendEmail_edit">"电子邮件地址"</string>
@@ -113,7 +113,7 @@
     <string name="dialerIconLabel">"拨号器"</string>
     <string name="recentCallsIconLabel">"通话记录"</string>
     <string name="liveFolderAll">"所有联系人"</string>
-    <string name="liveFolderFavorites">"已加星标联系人"</string>
+    <string name="liveFolderFavorites">"已加星标的联系人"</string>
     <string name="liveFolderPhone">"具有手机号码的联系人"</string>
     <string name="menu_sendTextMessage">"发送短信"</string>
     <string name="recentCalls_callNumber">"呼叫<xliff:g id="NAME">%s</xliff:g>"</string>
@@ -128,12 +128,12 @@
     <string name="private_num">"私人号码"</string>
     <string name="payphone">"投币式公用电话"</string>
     <string name="dialerKeyboardHintText">"使用键盘拨号"</string>
-    <string name="dialerDialpadHintText">"拨号以添加另一个呼叫"</string>
+    <string name="dialerDialpadHintText">"拨号以添加通话"</string>
     <string name="simContacts_emptyLoading">"正在从 SIM 卡载入..."</string>
     <string name="simContacts_title">"SIM 卡联系人"</string>
     <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"同步您的 Google 联系人！"</font>" "\n"将您的联系人同步到您的手机，然后您在任何地方都可以与他们联系。"</string>
-    <string name="noContactsHelpText">"您没有任何联系人。"\n\n"要添加联系人，请按下"<font fgcolor="#ffffffff"><b>"菜单"</b></font>"并选择："\n" "\n<li><font fgcolor="#ffffffff"><b>"新建联系人"</b></font>"以从头开始创建新联系人"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"导入联系人"</b></font>"以从您的 SIM 卡添加联系人"\n</li></string>
-    <string name="noContactsHelpTextWithSync">"您没有任何联系人。"\n\n"要添加联系人，请按下"<font fgcolor="#ffffffff"><b>"菜单"</b></font>"并选择："\n" "\n<li><font fgcolor="#ffffffff"><b>"编辑同步群组"</b></font>"以从新的或现有的 Google 帐户添加"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"新建联系人"</b></font>"以从头开始创建新联系人"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"导入联系人"</b></font>"以从您的 SIM 卡添加联系人"\n</li></string>
+    <string name="noContactsHelpText">"您没有任何联系人。"\n\n"要添加联系人，请按 "<font fgcolor="#ffffffff"><b>"MENU"</b></font>" 并选择："\n" "\n<li><font fgcolor="#ffffffff"><b>"新建联系人"</b></font>"以从头开始创建新联系人 "\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"导入联系人"</b></font>"以从您的 SIM 卡添加联系人"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"您没有任何联系人。"\n\n"要添加联系人，请按 "<font fgcolor="#ffffffff"><b>"MENU"</b></font>" 并选择："\n" "\n<li><font fgcolor="#ffffffff"><b>"编辑同步群组"</b></font>"以从新的或现有的 Google 帐户添加"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"新建联系人"</b></font>"以从头开始创建新联系人"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"导入联系人"</b></font>"以从您的 SIM 卡添加联系人"\n</li></string>
     <string name="seclectSyncGroups_title">"选择要同步的群组"</string>
     <string name="liveFolder_all_label">"所有联系人"</string>
     <string name="liveFolder_favorites_label">"已加星标"</string>
@@ -154,8 +154,8 @@
     <string name="ringtone_spinner">"铃声：<xliff:g id="RINGTONE">%1$s</xliff:g>"</string>
     <string name="add_more_items">"添加更多项"</string>
     <string name="actionCall">"呼叫<xliff:g id="TYPE">%s</xliff:g>"</string>
-    <string name="actionEmail">"电子邮件<xliff:g id="TYPE">%s</xliff:g>"</string>
-    <string name="actionText">"文本<xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionEmail">"发送电子邮件至<xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionText">"发送信息至<xliff:g id="TYPE">%s</xliff:g>"</string>
     <string name="actionChat">"使用<xliff:g id="TYPE">%s</xliff:g>聊天"</string>
     <string name="actionMap">"查看<xliff:g id="TYPE">%s</xliff:g>地址"</string>
     <string name="actionIncomingCall">"来电"</string>

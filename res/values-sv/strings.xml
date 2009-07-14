@@ -140,7 +140,7 @@
     <string name="liveFolder_phones_label">"Telefoner"</string>
     <string name="dialer_useDtmfDialpad">"Använda tonvalstelefon"</string>
     <string name="dialer_returnToInCallScreen">"Återgå till pågående samtal"</string>
-    <string name="dialer_addAnotherCall">"Lägg till samtal"</string>
+    <string name="dialer_addAnotherCall">"Lägg t. samt."</string>
     <string name="callDetailTitle">"Samtalsinfo"</string>
     <string name="toast_call_detail_error">"Det gick inte att läsa information om samtalet."</string>
     <string name="call_type">"Typ"</string>
