@@ -53,7 +53,7 @@
     <string name="ghostData_name">"Primeiro e último"</string>
     <string name="ghostData_phonetic_name">"Nome fonético"</string>
     <string name="ghostData_company">"Empresa"</string>
-    <string name="ghostData_title">"Posição"</string>
+    <string name="ghostData_title">"Cargo"</string>
     <string name="ghostData_im">"Nome de MI"</string>
     <string name="ghostData_notes">"A minha nota"</string>
     <string name="ghostData_phone">"Número de telefone"</string>
@@ -75,7 +75,7 @@
     <string name="photoPickerNotFoundText">"Não existem imagens disponíveis no telefone."</string>
     <string name="attachToContact">"Ícone de contacto"</string>
     <string name="customLabelPickerTitle">"Nome da etiqueta personalizada"</string>
-    <string name="menu_displayGroup">"Apresentar grupo"</string>
+    <string name="menu_displayGroup">"Mostrar grupos"</string>
     <string name="syncGroupPreference">"Editar grupos sincronizados"</string>
     <string name="importFromSim">"Importar contactos"</string>
     <string name="send_to_voicemail_checkbox">"Enviar as chamadas directamente para o correio de voz"</string>
@@ -133,7 +133,7 @@
     <string name="simContacts_title">"Contactos no cartão SIM"</string>
     <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Sincronize os seus contactos do Google!"</font>" "\n"Depois de efectuar a sincronização para o seu telefone, os seus contactos ficarão disponíveis onde quer que esteja."</string>
     <string name="noContactsHelpText">"Não tem contactos."\n\n"Para adicionar contactos, prima "<font fgcolor="#ffffffff"><b>"Menu"</b></font>" e seleccione:"\n\n<li><font fgcolor="#ffffffff"><b>"Novo contacto"</b></font>" para criar um novo contacto desde o princípio"\n</li>"."\n<li><font fgcolor="#ffffffff"><b>"Importar contactos"</b></font>" para adicionar contactos a partir do cartão SIM"\n</li></string>
-    <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto."\n\n"Para adicionar contactos, prima "<font fgcolor="#ffffffff"><b>"Menu"</b></font>" e seleccione:"\n\n<li><font fgcolor="#ffffffff"><b>"Editar grupos sincronizados"</b></font>" para adicionar a partir de uma Conta·Google nova ou já existente"\n</li>" \n"\n<li><font fgcolor="#ffffffff"><b>"Novo contacto"</b></font>" para criar um novo contacto desde o princípio"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importar contactos"</b></font>" para adicionar contactos a partir do cartão SIM"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto."\n\n"Para adicionar contactos, prima "<font fgcolor="#ffffffff"><b>"Menu"</b></font>" e seleccione:"\n\n<li><font fgcolor="#ffffffff"><b>"Editar grupos sincronizados"</b></font>" para adicionar a partir de uma Conta Google nova ou já existente"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Novo contacto"</b></font>" para criar um novo contacto desde o início"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Importar contactos"</b></font>" para adicionar contactos a partir do cartão SIM"\n</li></string>
     <string name="seclectSyncGroups_title">"Seleccionar grupos para sincronizar"</string>
     <string name="liveFolder_all_label">"Todos os contactos"</string>
     <string name="liveFolder_favorites_label">"Marcado com estrela"</string>
