@@ -76,7 +76,7 @@
     <string name="attachToContact">"Ícono de contacto"</string>
     <string name="customLabelPickerTitle">"Nombre personalizado de etiqueta"</string>
     <string name="menu_displayGroup">"Mostrar grupo"</string>
-    <string name="syncGroupPreference">"Editar grupos sincronizados"</string>
+    <string name="syncGroupPreference">"Editar grupos sincroniz."</string>
     <string name="importFromSim">"Importar contactos"</string>
     <string name="send_to_voicemail_checkbox">"Enviar llamadas directamente al correo de voz"</string>
     <string name="send_to_voicemail_view">"Las llamadas se envían directamente a un correo de voz."</string>
@@ -99,7 +99,7 @@
     <string name="listSeparatorCallNumber_edit">"Números de teléfono"</string>
     <string name="listSeparatorSendSmsMms">"Enviar SMS//MMS"</string>
     <string name="listSeparatorSendEmail">"Enviar correo electrónico"</string>
-    <string name="listSeparatorSendEmail_edit">"Direcciones de correo electrónico"</string>
+    <string name="listSeparatorSendEmail_edit">"Direcciones de correo electr."</string>
     <string name="listSeparatorSendIm">"Enviar mensaje instantáneo"</string>
     <string name="listSeparatorSendIm_edit">"Direcciones de chat"</string>
     <string name="listSeparatorMapAddress">"Dirección del mapa"</string>
@@ -111,7 +111,7 @@
     <string name="contactsIconLabel">"Contactos"</string>
     <string name="contactsFavoritesLabel">"Favoritos"</string>
     <string name="dialerIconLabel">"Marcador"</string>
-    <string name="recentCallsIconLabel">"Registro de llamadas"</string>
+    <string name="recentCallsIconLabel">"Regist. de llam."</string>
     <string name="liveFolderAll">"Todos los contactos"</string>
     <string name="liveFolderFavorites">"Contactos marcados con asterisco"</string>
     <string name="liveFolderPhone">"Contactos con números de teléfono"</string>
@@ -128,7 +128,7 @@
     <string name="private_num">"Número privado"</string>
     <string name="payphone">"Teléfono público"</string>
     <string name="dialerKeyboardHintText">"Utilizar teclado para marcar"</string>
-    <string name="dialerDialpadHintText">"Marcar para agregar una llamada"</string>
+    <string name="dialerDialpadHintText">"Marcar para agreg."</string>
     <string name="simContacts_emptyLoading">"Cargando desde tarjeta SIM..."</string>
     <string name="simContacts_title">"Contactos de tarjeta SIM"</string>
     <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"¡Sincroniza tus contactos de Google!"</font>" "\n" Luego de sincronizar tu teléfono, tus contactos estarán disponibles para ti dondequiera que vayas."</string>
@@ -140,7 +140,7 @@
     <string name="liveFolder_phones_label">"Teléfonos"</string>
     <string name="dialer_useDtmfDialpad">"Usar teclado de tonos del teléfono"</string>
     <string name="dialer_returnToInCallScreen">"Regresar a la llamada en curso"</string>
-    <string name="dialer_addAnotherCall">"Agregar llamada"</string>
+    <string name="dialer_addAnotherCall">"Agreg. Llam."</string>
     <string name="callDetailTitle">"Detalles de llamada"</string>
     <string name="toast_call_detail_error">"No se han podido leer los detalles de la llamada solicitada."</string>
     <string name="call_type">"Tipo"</string>

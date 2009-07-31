@@ -54,7 +54,7 @@
     <string name="ghostData_phonetic_name">"姓名拼音"</string>
     <string name="ghostData_company">"公司"</string>
     <string name="ghostData_title">"职位"</string>
-    <string name="ghostData_im">"聊天帐号"</string>
+    <string name="ghostData_im">"即时通讯帐号"</string>
     <string name="ghostData_notes">"我的备注"</string>
     <string name="ghostData_phone">"电话号码"</string>
     <string name="ghostData_email">"电子邮件地址"</string>
@@ -140,7 +140,7 @@
     <string name="liveFolder_phones_label">"手机"</string>
     <string name="dialer_useDtmfDialpad">"使用按键式数字键盘"</string>
     <string name="dialer_returnToInCallScreen">"返回正在进行的通话"</string>
-    <string name="dialer_addAnotherCall">"添加呼叫"</string>
+    <string name="dialer_addAnotherCall">"添加通话"</string>
     <string name="callDetailTitle">"通话详情"</string>
     <string name="toast_call_detail_error">"无法读取所请求呼叫的详细信息。"</string>
     <string name="call_type">"类型"</string>

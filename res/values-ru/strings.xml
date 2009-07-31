@@ -117,7 +117,7 @@
     <string name="liveFolderPhone">"Контакты с номерами телефонов"</string>
     <string name="menu_sendTextMessage">"Отправить SMS-сообщение"</string>
     <string name="recentCalls_callNumber">"Вызов: <xliff:g id="NAME">%s</xliff:g>"</string>
-    <string name="recentCalls_editNumberBeforeCall">"Изменить номер перед вызовом"</string>
+    <string name="recentCalls_editNumberBeforeCall">"Изменить номер и вызвать"</string>
     <string name="recentCalls_addToContact">"Добавить в контакты"</string>
     <string name="recentCalls_removeFromRecentList">"Удалить из списка вызовов"</string>
     <string name="recentCalls_deleteAll">"Очистить список вызовов"</string>

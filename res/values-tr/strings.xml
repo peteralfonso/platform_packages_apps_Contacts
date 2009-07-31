@@ -50,7 +50,7 @@
     <string name="label_phonetic_name">"Fonetik"</string>
     <string name="label_notes">"Notlar"</string>
     <string name="label_ringtone">"Zil sesi"</string>
-    <string name="ghostData_name">"İlk ve Son"</string>
+    <string name="ghostData_name">"Adı ve Soyadı"</string>
     <string name="ghostData_phonetic_name">"Fonetik adı"</string>
     <string name="ghostData_company">"Şirket"</string>
     <string name="ghostData_title">"Konum"</string>
@@ -76,7 +76,7 @@
     <string name="attachToContact">"Kişi simgesi"</string>
     <string name="customLabelPickerTitle">"Özel etiket adı"</string>
     <string name="menu_displayGroup">"Grubu görüntüle"</string>
-    <string name="syncGroupPreference">"Senk. Grupları düzenle"</string>
+    <string name="syncGroupPreference">"Senk. grupları düzenle"</string>
     <string name="importFromSim">"Kişileri içe aktar"</string>
     <string name="send_to_voicemail_checkbox">"Çağrıları doğrudan sesli mesaja gönder"</string>
     <string name="send_to_voicemail_view">"Aramalar doğrudan sesli mesaja gönderildi."</string>
@@ -115,7 +115,7 @@
     <string name="liveFolderAll">"Tüm kişiler"</string>
     <string name="liveFolderFavorites">"Yıldızlı kişiler"</string>
     <string name="liveFolderPhone">"Telefon numarası olan kişiler"</string>
-    <string name="menu_sendTextMessage">"SMS iletisi gönder"</string>
+    <string name="menu_sendTextMessage">"SMS mesajı gönder"</string>
     <string name="recentCalls_callNumber">"<xliff:g id="NAME">%s</xliff:g> adlı kişiyi ara"</string>
     <string name="recentCalls_editNumberBeforeCall">"Aramadan önce numarayı düzenle"</string>
     <string name="recentCalls_addToContact">"Kişilere ekle"</string>
@@ -133,7 +133,7 @@
     <string name="simContacts_title">"SIM kart kişileri"</string>
     <string name="contactsSyncPlug"><font fgcolor="#ffffffff">"Google kişilerinizi senkronize edin!"</font>" "\n"Telefonunuzu senkronize ettikten sonra, kişilerinize gittiğiniz her yerden ulaşabilirsiniz."</string>
     <string name="noContactsHelpText">"Hiçbir kişiye sahip değilsiniz."\n\n"Kişi eklemek için "<font fgcolor="#ffffffff"><b>"Menü"</b></font>"\'ye basın ve şunu seçin:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Yeni kişi"</b></font>" (yeni bir kişi oluşturmak için)"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Kişileri içe aktar"</b></font>" (kişileri SIM kartınızdan almak için)"\n</li></string>
-    <string name="noContactsHelpTextWithSync">"Hiçbir kişiniz yok."\n\n"Kişi eklemek için "<font fgcolor="#ffffffff"><b>"Menü"</b></font>"\'ye basın ve şunu seçin:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Senkronize grupları düzenle"</b></font>" (yeni veya mevcut bir Google hesabından eklemek için )"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Yeni kişi"</b></font>" (yeni bir kişi oluşturmak için)"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Kişileri içe aktar"</b></font>" (kişileri SIM kartınızdan eklemek için)"\n</li></string>
+    <string name="noContactsHelpTextWithSync">"Hiçbir kişiniz yok."\n\n"Kişi eklemek için "<font fgcolor="#ffffffff"><b>"Menü"</b></font>"\'ye basın ve şunu seçin:"\n" "\n<li><font fgcolor="#ffffffff"><b>"Senk. grupları düzenle"</b></font>" (yeni veya mevcut bir Google hesabından eklemek için )"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Yeni kişi"</b></font>" (yeni bir kişi oluşturmak için)"\n</li>" "\n<li><font fgcolor="#ffffffff"><b>"Kişileri içe aktar"</b></font>" (kişileri SIM kartınızdan eklemek için)"\n</li></string>
     <string name="seclectSyncGroups_title">"Senkronize edilecek grupları seç"</string>
     <string name="liveFolder_all_label">"Tüm Kişiler"</string>
     <string name="liveFolder_favorites_label">"Yıldızlı"</string>
@@ -154,8 +154,8 @@
     <string name="ringtone_spinner">"Zil sesi: <xliff:g id="RINGTONE">%1$s</xliff:g>"</string>
     <string name="add_more_items">"Daha fazla öğe ekle"</string>
     <string name="actionCall">"Şunu ara: <xliff:g id="TYPE">%s</xliff:g>"</string>
-    <string name="actionEmail">"E-posta <xliff:g id="TYPE">%s</xliff:g>"</string>
-    <string name="actionText">"Metin <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionEmail">"E-posta gönder: <xliff:g id="TYPE">%s</xliff:g>"</string>
+    <string name="actionText">"SMS gönder: <xliff:g id="TYPE">%s</xliff:g>"</string>
     <string name="actionChat">"<xliff:g id="TYPE">%s</xliff:g> kullanarak sohbet et"</string>
     <string name="actionMap">"<xliff:g id="TYPE">%s</xliff:g> adresini görüntüle"</string>
     <string name="actionIncomingCall">"Gelen çağrılar"</string>
